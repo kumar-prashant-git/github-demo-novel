@@ -31,7 +31,7 @@ To test your rule
 
 .
 
-In the navigation pane, choose Events, Rules, select the name of the rule that you created, and choose Show metrics for the rule.
+Inggg the navigation pane, choose Events, Rules, select the name of the rule that you created, and choose Show metrics for the rule.
 
 To view the output from your Lambda function, do the following:
 
