@@ -1,3 +1,5 @@
+-----outline----
+
 hajakkl;ok
 Use the following add-permission command to trust the CloudWatch Events service principal (events.amazonaws.com) and scope permissions to the rule with the specified Amazon Resource Name (ARN):
 
@@ -30,6 +32,7 @@ To test your rule
     Open the CloudWatch console at https://console.aws.amazon.com/cloudwatch/
 
 .
+____outline
 
 Inggg the navigation pane, choose Events, Rules, select the name of the rule that you created, and choose Show metrics for the rule.
 
