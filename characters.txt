@@ -2,3 +2,5 @@ You can set up a rule to run an AWS Lambda function on a schedule. This tutorial
 
 CloudWatch Events does not provide second-level precision in schedule expressions. The finest resolution using a cron expression is a minute. Due to the distributed nature of the CloudWatch Events and the target services, the delay between the time the scheduled rule is triggered and the time the target service honors the execution of the target resource might be several seconds. Your scheduled rule is triggered within that minute but not on the precise 0th second. 
 ffggg
+saamba
+he is a funny guy
